@@ -2,6 +2,10 @@
 
 Each version is a git tag. What a library made from an earlier one can take over is said under each.
 
+## v1.2.9
+
+Onboarding gives every page the template brings a title in the owner's language, the skills index, the register of deliverables and the design pages among them, and the heading of the hats README. The list of five pages it named before had left three in English. A library made earlier can give those pages a title in its own language by hand.
+
 ## v1.2.8
 
 The eval set and the ingest say what an assertion may pin. Facts only, never `status`, `next_action`, `next_action_date`, `review` or `updated`, which move with ordinary work. A library made earlier can take over the two sentences and remove any assertion on those fields from its own eval set.
